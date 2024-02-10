@@ -10,5 +10,14 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/dotenv": "^8.2.0",
+    "@types/helmet": "^4.0.0",
+    "@types/http-status-codes": "^1.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.2",
+    "helmet": "^7.1.0"
   }
 }
